@@ -5,7 +5,7 @@
     "price": 6.4,
     "stock": 92,
     "category": "Micropigmentação",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/agulha-1ponta.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/agulha-1ponta.jpeg",
     "description": "Agulha descartável de 1 ponta para procedimentos de micropigmentação com precisão e segurança."
   },
   {
@@ -14,7 +14,7 @@
     "price": 6.4,
     "stock": 93,
     "category": "Micropigmentação",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/agulha-3pontas.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/agulha-3pontas.jpeg",
     "description": "Agulha descartável de 3 pontas ideal para procedimentos profissionais de micropigmentação."
   },
   {
@@ -23,7 +23,7 @@
     "price": 24.9,
     "stock": 1,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/body-sple.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/body-sple.jpeg",
     "description": "Body splash com brilho suave e fragrância agradável para perfumar e realçar a pele."
   },
   {
@@ -32,7 +32,7 @@
     "price": 25.9,
     "stock": 4,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/body-sple.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/body-sple.jpeg",
     "description": "Body splash iluminador com aroma refrescante e toque brilhante para o dia a dia."
   },
   {
@@ -41,7 +41,7 @@
     "price": 22.9,
     "stock": 9,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/geleia.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/geleia.jpeg",
     "description": "Geleia hidratante corporal que ajuda a manter a pele macia, perfumada e com toque sedoso."
   },
   {
@@ -50,7 +50,7 @@
     "price": 22.9,
     "stock": 5,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/geleia.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/geleia.jpeg",
     "description": "Geleia iluminadora corporal que hidrata e deixa a pele com brilho bonito e uniforme."
   },
   {
@@ -59,7 +59,7 @@
     "price": 16.9,
     "stock": 5,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/sabonete-hidra.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/sabonete-hidra.jpeg",
     "description": "Hidratante corporal com rápida absorção para pele macia, nutrida e perfumada."
   },
   {
@@ -68,7 +68,7 @@
     "price": 19.9,
     "stock": 2,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/alleva-limpeza.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/alleva-limpeza.jpeg",
     "description": "Mousse de limpeza facial que remove impurezas e ajuda no cuidado diário da pele."
   },
   {
@@ -77,7 +77,7 @@
     "price": 19.9,
     "stock": 5,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/alleva-limpeza.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/alleva-limpeza.jpeg",
     "description": "Mousse de limpeza suave ideal para higienização da pele com sensação refrescante."
   },
   {
@@ -86,7 +86,7 @@
     "price": 19.9,
     "stock": 8,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/alleva-limpeza.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/alleva-limpeza.jpeg",
     "description": "Mousse de limpeza que auxilia na remoção de resíduos e oleosidade da pele."
   },
   {
@@ -95,7 +95,7 @@
     "price": 19.9,
     "stock": 5,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/alleva-limpeza.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/alleva-limpeza.jpeg",
     "description": "Mousse de limpeza facial para uso diário, deixando a pele limpa e agradável ao toque."
   },
   {
@@ -104,7 +104,7 @@
     "price": 19.9,
     "stock": 4,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/alleva-limpeza.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/alleva-limpeza.jpeg",
     "description": "Mousse de limpeza delicada para manter a pele limpa, fresca e bem cuidada."
   },
   {
@@ -113,7 +113,7 @@
     "price": 19.9,
     "stock": 3,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/alleva-limpeza.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/alleva-limpeza.jpeg",
     "description": "Mousse facial para limpeza prática e eficiente, ideal para rotina de cuidados."
   },
   {
@@ -122,7 +122,7 @@
     "price": 16.9,
     "stock": 2,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/sabonete-hidra.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/sabonete-hidra.jpeg",
     "description": "Sabonete líquido corporal para limpeza suave, deixando a pele limpa e perfumada."
   },
   {
@@ -131,7 +131,7 @@
     "price": 11.9,
     "stock": 11,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/anel-para-cola.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/anel-para-cola.jpeg",
     "description": "Anel para cola que facilita a aplicação e agiliza procedimentos de cílios."
   },
   {
@@ -140,7 +140,7 @@
     "price": 10,
     "stock": 1,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/batok.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/batok.jpeg",
     "description": "Batok para cola em formato coração, prático para organização durante o atendimento."
   },
   {
@@ -149,7 +149,7 @@
     "price": 9.99,
     "stock": 6,
     "category": "Maquiagem",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/BATOM MAGIC LIPSTICK.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/BATOM MAGIC LIPSTICK.jpeg",
     "description": "Batom de longa duração com efeito marcante, ideal para valorizar os lábios."
   },
   {
@@ -158,7 +158,7 @@
     "price": 35.9,
     "stock": 4,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/caixa-placas.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/caixa-placas.jpeg",
     "description": "Caixa organizadora para cílios e acessórios, ideal para manter tudo prático no atendimento."
   },
   {
@@ -167,7 +167,7 @@
     "price": 36.9,
     "stock": 6,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
     "description": "Cílios profissionais W3D com curvatura e volume para alongamentos elegantes."
   },
   {
@@ -176,7 +176,7 @@
     "price": 36.9,
     "stock": 10,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
     "description": "Cílios W5D pretos para resultados volumosos e acabamento profissional."
   },
   {
@@ -185,7 +185,7 @@
     "price": 46.9,
     "stock": 4,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
     "description": "Cílios marrom W5D ideais para um efeito mais suave e sofisticado."
   },
   {
@@ -194,7 +194,7 @@
     "price": 36.9,
     "stock": 20,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/fadvam-5d-preto.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/fadvam-5d-preto.jpeg",
     "description": "Cílios 5D para alongamento com efeito cheio, bonito e profissional."
   },
   {
@@ -203,7 +203,7 @@
     "price": 46.9,
     "stock": 5,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/fadvam-5d-marrom.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/fadvam-5d-marrom.jpeg",
     "description": "Cílios marrom para alongamento com acabamento delicado e natural."
   },
   {
@@ -212,7 +212,7 @@
     "price": 23.9,
     "stock": 5,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/fadvam-yy.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/fadvam-yy.jpeg",
     "description": "Cílios modelo Y para aplicação prática e efeito volumoso."
   },
   {
@@ -221,7 +221,7 @@
     "price": 36.9,
     "stock": 5,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/jd-5d.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/jd-5d.jpeg",
     "description": "Cílios W5D com ótimo volume para extensão e alongamento profissional."
   },
   {
@@ -230,7 +230,7 @@
     "price": 46.9,
     "stock": 4,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Cilios Maria-Sasha Lash W4D 0,07M Mix 8-14mm.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Maria-Sasha Lash W4D 0,07M Mix 8-14mm.jpeg",
     "description": "Cílios W4D para alongamento com efeito elegante e acabamento refinado."
   },
   {
@@ -239,7 +239,7 @@
     "price": 24.9,
     "stock": 5,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/nagaraku-7d.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/nagaraku-7d.jpeg",
     "description": "Cílios modelo Y para aplicações rápidas com ótimo resultado visual."
   },
   {
@@ -248,7 +248,7 @@
     "price": 36.9,
     "stock": 5,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/fadvam-double.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/fadvam-double.jpeg",
     "description": "Cílios W6D double para alongamentos com volume intenso e definição."
   },
   {
@@ -257,7 +257,7 @@
     "price": 65.9,
     "stock": 2,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/cola-oxe.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/cola-oxe.jpeg",
     "description": "Cola profissional para cílios com ótima retenção e secagem eficiente."
   },
   {
@@ -266,7 +266,7 @@
     "price": 65.9,
     "stock": 2,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Cola Cherry Aurora 3G.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cola Cherry Aurora 3G.jpeg",
     "description": "Cola para extensão de cílios com boa fixação e uso profissional."
   },
   {
@@ -275,7 +275,7 @@
     "price": 6.5,
     "stock": 36,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Escovinhas para cilios.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Escovinhas para cilios.jpeg",
     "description": "Escovinhas práticas para pentear, alinhar e finalizar cílios e sobrancelhas."
   },
   {
@@ -284,7 +284,7 @@
     "price": 15.9,
     "stock": 5,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/espelho.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/espelho.jpeg",
     "description": "Espelho prático e funcional para uso pessoal ou profissional."
   },
   {
@@ -293,7 +293,7 @@
     "price": 7,
     "stock": 60,
     "category": "Maquiagem",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/esponjinhas.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/esponjinhas.jpeg",
     "description": "Esponjinha ideal para aplicação uniforme de base, corretivo e outros produtos."
   },
   {
@@ -302,7 +302,7 @@
     "price": 5,
     "stock": 25,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/FITA TRANSPORE.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/FITA TRANSPORE.jpeg",
     "description": "Fita prática para apoio e fixação em diferentes usos do dia a dia profissional."
   },
   {
@@ -311,7 +311,7 @@
     "price": 10.9,
     "stock": 46,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/fita-siliconada.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/fita-siliconada.jpeg",
     "description": "Fita siliconada pequena para procedimentos com cílios e acabamento delicado."
   },
   {
@@ -320,7 +320,7 @@
     "price": 19.9,
     "stock": 36,
     "category": "Sobrancelha",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/brow-rise.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/brow-rise.jpeg",
     "description": "Gel modelador que ajuda a fixar e definir os fios da sobrancelha."
   },
   {
@@ -329,7 +329,7 @@
     "price": 19.9,
     "stock": 24,
     "category": "Sobrancelha",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/gel-modelador-melu.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/gel-modelador-melu.jpeg",
     "description": "Gel fixador ideal para alinhar sobrancelhas com efeito natural."
   },
   {
@@ -338,7 +338,7 @@
     "price": 39.9,
     "stock": 5,
     "category": "Sobrancelha",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/HENNA CASTANHO ESCURO SHOCE.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/HENNA CASTANHO ESCURO SHOCE.jpeg",
     "description": "Henna para sobrancelhas com cor castanho escuro e ótima definição."
   },
   {
@@ -347,7 +347,7 @@
     "price": 18.9,
     "stock": 2,
     "category": "Ferramentas",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/kit-pinca-com3.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/kit-pinca-com3.jpeg",
     "description": "Kit de pinças 3 em 1 para procedimentos detalhados e aplicação precisa."
   },
   {
@@ -356,7 +356,7 @@
     "price": 18.9,
     "stock": 2,
     "category": "Ferramentas",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/kit-pinca-com3.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/kit-pinca-com3.jpeg",
     "description": "Kit com pinça curva ideal para trabalhos de cílios e acabamento profissional."
   },
   {
@@ -365,7 +365,7 @@
     "price": 159.9,
     "stock": 3,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/kit-beautify-3em1.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/kit-beautify-3em1.jpeg",
     "description": "Kit profissional para retenção e preparação, pensado para melhorar o desempenho dos procedimentos."
   },
   {
@@ -374,7 +374,7 @@
     "price": 6,
     "stock": 24,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/lenco-panda.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/lenco-panda.jpeg",
     "description": "Lenço descartável para limpeza e higiene em atendimentos e uso diário."
   },
   {
@@ -383,7 +383,7 @@
     "price": 34.9,
     "stock": 2,
     "category": "Cabelo",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/capilife.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/capilife.jpeg",
     "description": "Produto capilar para cuidados e tratamento dos fios."
   },
   {
@@ -392,7 +392,7 @@
     "price": 34.9,
     "stock": 3,
     "category": "Cabelo",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/babalife.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/babalife.jpeg",
     "description": "Tratamento capilar pensado para hidratação e fortalecimento do cabelo."
   },
   {
@@ -401,7 +401,7 @@
     "price": 21.9,
     "stock": 10,
     "category": "Maquiagem",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/mascara-playboy.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/mascara-playboy.jpeg",
     "description": "Máscara de cílios para volume e definição com efeito marcante."
   },
   {
@@ -410,7 +410,7 @@
     "price": 6.5,
     "stock": 36,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Micro Blush.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Micro Blush.jpeg",
     "description": "Aplicadores descartáveis para procedimentos com mais higiene e precisão."
   },
   {
@@ -419,7 +419,7 @@
     "price": 49.9,
     "stock": 3,
     "category": "Ferramentas",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/mixer-tinta.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/mixer-tinta.jpeg",
     "description": "Misturador de cola que ajuda na preparação dos produtos durante o atendimento."
   },
   {
@@ -428,7 +428,7 @@
     "price": 18.9,
     "stock": 5,
     "category": "Skincare",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Oleo-de-rosa-mosqueta.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Oleo-de-rosa-mosqueta.jpeg",
     "description": "Óleo hidratante e regenerador para cuidados diários da pele."
   },
   {
@@ -437,7 +437,7 @@
     "price": 5,
     "stock": 50,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/micropolo-antialergica.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/micropolo-antialergica.jpeg",
     "description": "Pacote de fita micropore para fixação segura em procedimentos."
   },
   {
@@ -446,7 +446,7 @@
     "price": 10.9,
     "stock": 5,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/micropole-fina.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/micropole-fina.jpeg",
     "description": "Fita micropore fina ideal para trabalhos delicados e acabamento preciso."
   },
   {
@@ -455,7 +455,7 @@
     "price": 5,
     "stock": 22,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/FITA TRANSPORE.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/FITA TRANSPORE.jpeg",
     "description": "Fita transpore para fixação leve e apoio em procedimentos."
   },
   {
@@ -464,7 +464,7 @@
     "price": 3.99,
     "stock": 12,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Palito De Maeira.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Palito De Maeira.jpeg",
     "description": "Palito de madeira para apoio e aplicação em procedimentos diversos."
   },
   {
@@ -473,7 +473,7 @@
     "price": 27.5,
     "stock": 10,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/filme-rolo.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/filme-rolo.jpeg",
     "description": "Papel filme para proteção de superfícies e apoio em atendimentos."
   },
   {
@@ -482,7 +482,7 @@
     "price": 8,
     "stock": 6,
     "category": "Ferramentas",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/paquimetro.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/paquimetro.jpeg",
     "description": "Paquímetro para medições precisas em procedimentos e marcações."
   },
   {
@@ -491,7 +491,7 @@
     "price": 22.5,
     "stock": 20,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Pds adesivo.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Pds adesivo.jpeg",
     "description": "Adesivo prático para organização e apoio em procedimentos."
   },
   {
@@ -500,7 +500,7 @@
     "price": 14.99,
     "stock": 8,
     "category": "Ferramentas",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/pinca-zolo.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pinca-zolo.jpeg",
     "description": "Pinça para cílios com boa precisão e manuseio confortável."
   },
   {
@@ -509,7 +509,7 @@
     "price": 6.5,
     "stock": 40,
     "category": "Maquiagem",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/Pincel aplicador de batom.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Pincel aplicador de batom.jpeg",
     "description": "Pincel aplicador ideal para acabamento mais preciso nos lábios."
   },
   {
@@ -518,7 +518,7 @@
     "price": 9.99,
     "stock": 12,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/pisseta.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pisseta.jpeg",
     "description": "Pisseta prática para armazenamento e aplicação de líquidos em procedimentos."
   },
   {
@@ -527,7 +527,7 @@
     "price": 19.9,
     "stock": 6,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/caixa-placas.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/caixa-placas.jpeg",
     "description": "Placa acrílica útil para organização e apoio durante o atendimento."
   },
   {
@@ -536,7 +536,7 @@
     "price": 69.9,
     "stock": 5,
     "category": "Estética",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/pomanda-tktx.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pomanda-tktx.jpeg",
     "description": "Pomada anestésica para ajudar a reduzir o desconforto em procedimentos."
   },
   {
@@ -545,7 +545,7 @@
     "price": 89.9,
     "stock": 5,
     "category": "Estética",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/pomanda-tktx.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pomanda-tktx.jpeg",
     "description": "Pomada pós procedimento para auxiliar nos cuidados após a aplicação."
   },
   {
@@ -554,7 +554,7 @@
     "price": 9.99,
     "stock": 12,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/pump.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pump.jpeg",
     "description": "Frasco pump spray ideal para borrifar líquidos com praticidade."
   },
   {
@@ -563,7 +563,7 @@
     "price": 25.9,
     "stock": 2,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/glue-removedor.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/glue-removedor.jpeg",
     "description": "Removedor para cola de cílios com ação prática e eficiente."
   },
   {
@@ -572,7 +572,7 @@
     "price": 25.9,
     "stock": 3,
     "category": "Cílios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/glue-removedor.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/glue-removedor.jpeg",
     "description": "Removedor de cola com fragrância melancia para uso profissional."
   },
   {
@@ -581,7 +581,7 @@
     "price": 27.5,
     "stock": 5,
     "category": "Estética",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/removedor-navina.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/removedor-navina.jpeg",
     "description": "Removedor indicado para procedimentos com boa eficiência e praticidade."
   },
   {
@@ -590,7 +590,7 @@
     "price": 0,
     "stock": 2,
     "category": "Descartáveis",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/NOME-DA-IMAGEM.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/NOME-DA-IMAGEM.jpeg",
     "description": "Rolo de papel toalha útil para limpeza, apoio e organização no atendimento."
   },
   {
@@ -599,7 +599,7 @@
     "price": 17.99,
     "stock": 6,
     "category": "Ferramentas",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/tesoura.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/tesoura.jpeg",
     "description": "Tesoura para cortes precisos e uso profissional."
   },
   {
@@ -608,7 +608,7 @@
     "price": 34.9,
     "stock": 5,
     "category": "Acessórios",
-    "image": "https://devolprodrigov.github.io/beauty-sabrina/imagens/ventilador.jpeg",
+    "image": "https://devolprodrigov.github.io/beauty-magia/imagens/ventilador.jpeg",
     "description": "Ventilador portátil ideal para secagem e conforto durante procedimentos."
   }
 ]

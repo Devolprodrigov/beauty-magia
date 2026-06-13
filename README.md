@@ -1,4 +1,4 @@
-# Sabrina Beauty - versão pronta para GitHub Pages
+# Magia Beauty - versão pronta para GitHub Pages
 
 Esta versão foi convertida para **HTML + CSS + JavaScript puro**, então você pode publicar direto no GitHub sem Vite, npm ou build.
 

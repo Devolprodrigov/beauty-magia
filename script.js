@@ -1,5 +1,5 @@
 const DEFAULT_IMAGE = 'https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&auto=format&fit=crop';
-const WHATSAPP_PRIMARY = '5541997282177';
+const WHATSAPP_PRIMARY = '5541984842112';
 
 const state = {
   view: 'shop',
@@ -301,7 +301,7 @@ async function finishOrder() {
   }
 
   // 🧾 Mensagem
-  let message = `Olá Sabrina Beauty! Meu nome é ${encodeURIComponent(firstName)} ${encodeURIComponent(lastName)}.%0A%0AGostaria de fazer um pedido:%0A%0A`;
+  let message = `Olá Magia Beauty! Meu nome é ${encodeURIComponent(firstName)} ${encodeURIComponent(lastName)}.%0A%0AGostaria de fazer um pedido:%0A%0A`;
 
   state.cart.forEach(item => {
     const totalItem = Number(item.price || 0) * Number(item.qty || 0);
@@ -432,7 +432,7 @@ async function exportPDF() {
   doc.setTextColor(212, 175, 55);
   doc.setFont('helvetica', 'bold');
   doc.setFontSize(26);
-  doc.text('SABRINA BEAUTY', 105, 25, { align: 'center' });
+  doc.text('Magia BEAUTY', 105, 25, { align: 'center' });
 
   doc.setFontSize(10);
   doc.setTextColor(210, 210, 210);
@@ -473,7 +473,7 @@ async function exportPDF() {
     y += 10;
   }
 
-  doc.save('catalogo-sabrina-beauty.pdf');
+  doc.save('catalogo-Magia-beauty.pdf');
 }
 
 function escapeHtml(text) {

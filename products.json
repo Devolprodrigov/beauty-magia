@@ -138,7 +138,7 @@
     "id": 16,
     "name": "BATOK PARA COLA CORAÇÃO",
     "price": 10,
-    "stock": 1,
+    "stock": 0,
     "category": "Acessórios",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/batok.jpeg",
     "description": "Batok para cola em formato coração, prático para organização durante o atendimento."
@@ -165,7 +165,7 @@
     "id": 19,
     "name": "CILIOS DECEMARS W3D 0.07D MIX 8-14MM",
     "price": 36.9,
-    "stock": 6,
+    "stock": 0,
     "category": "Cílios",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
     "description": "Cílios profissionais W3D com curvatura e volume para alongamentos elegantes."
@@ -174,7 +174,7 @@
     "id": 20,
     "name": "CILIOS DECEMARS W5D 0.07D MIX 8-12/14MM PRETO",
     "price": 36.9,
-    "stock": 10,
+    "stock": 0,
     "category": "Cílios",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
     "description": "Cílios W5D pretos para resultados volumosos e acabamento profissional."
@@ -183,7 +183,7 @@
     "id": 21,
     "name": "CILIOS DECEMARS W5D 0.07D MIX 8-14MM MARROM",
     "price": 46.9,
-    "stock": 4,
+    "stock": 0,
     "category": "Cílios",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cilios Decemars W3D 0.07D Mix 8-14mm.jpeg",
     "description": "Cílios marrom W5D ideais para um efeito mais suave e sofisticado."
@@ -255,7 +255,7 @@
     "id": 29,
     "name": "COLA BEAUTIFY OXE",
     "price": 65.9,
-    "stock": 2,
+    "stock": 0,
     "category": "Cílios",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/cola-oxe.jpeg",
     "description": "Cola profissional para cílios com ótima retenção e secagem eficiente."
@@ -264,7 +264,7 @@
     "id": 30,
     "name": "COLA CHERRY AURORA 3G",
     "price": 65.9,
-    "stock": 2,
+    "stock": 0,
     "category": "Cílios",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/Cola Cherry Aurora 3G.jpeg",
     "description": "Cola para extensão de cílios com boa fixação e uso profissional."
@@ -534,7 +534,7 @@
     "id": 60,
     "name": "POMADA ANESTESICA TKTX VERDE",
     "price": 69.9,
-    "stock": 5,
+    "stock": 0,
     "category": "Estética",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pomanda-tktx.jpeg",
     "description": "Pomada anestésica para ajudar a reduzir o desconforto em procedimentos."
@@ -543,7 +543,7 @@
     "id": 61,
     "name": "POMADA TKTX POS PRETA",
     "price": 89.9,
-    "stock": 5,
+    "stock": 0,
     "category": "Estética",
     "image": "https://devolprodrigov.github.io/beauty-magia/imagens/pomanda-tktx.jpeg",
     "description": "Pomada pós procedimento para auxiliar nos cuidados após a aplicação."
